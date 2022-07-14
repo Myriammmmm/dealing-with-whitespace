@@ -1,0 +1,16 @@
+html {
+    box-sizing: border-box;
+  }
+
+  *, *::before, *::after {
+    box-sizing: inherit;
+  }
+
+article {
+  font-family: "Crimson Text", serif;
+  color: #555;
+  font-size: 1.125rem;
+  line-height: 1.3;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
