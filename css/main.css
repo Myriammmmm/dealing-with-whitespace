@@ -14,8 +14,7 @@ body {
 article {
   font-family: "Crimson Text", serif;
   color: #555;
-  font-size: 1rem;
-  font-weight: normal;
+  font-size: 1.125rem;
   line-height: 1em;
   padding-left: 1rem;
   padding-right: 1rem;
@@ -28,6 +27,7 @@ article header {
 
 article h1 {
   font-size: 1.5rem;
+  font-weight: normal;
   color: #222;
   margin-bottom: 0;
 }
