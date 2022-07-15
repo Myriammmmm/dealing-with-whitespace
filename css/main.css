@@ -6,6 +6,10 @@ html {
     box-sizing: inherit;
   }
 
+body {
+  margin: 0;
+}
+
 article {
   font-family: "Crimson Text", serif;
   color: #555;
