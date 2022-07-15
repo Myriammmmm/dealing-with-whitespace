@@ -48,7 +48,7 @@ blockquote {
   color: #555;
 }
 
-.quote first-child {
+.quote {
   margin-left: .3em;
 }
 
